@@ -5,9 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Chrome</title>
+    <link rel="stylesheet" href="./css/main.css">
   </head>
   <body>
-    <h1>Hello World!</h1>
+    <input type="text" placeholder="What are you looking for?">
+
+    <section class="display">
+      <div class="snippet"></div>
+      <p class="description"></p>
+    </section>
+
+    <ul class="displaySearch"></ul>
+
+    <select>
+      <option value="select" id="language">LANGUAGE</option>
+      <option value="git">GIT</option>
+      <option value="bash">BASH</option>
+      <option value="css">CSS</option>
+    </select>
+
+    <button>Change Theme</button>
+
     <script src="./js/main.js"></script>
   </body>
 </html>
