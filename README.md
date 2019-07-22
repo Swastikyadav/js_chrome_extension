@@ -6,7 +6,7 @@ The aim of the extension is to provide you with simple but usefull snippets.
 * [ ] Css
 * [ ] More to come...
 
-## Steps To  Chrome Extension 🛹
+## Steps To add Chrome Extension 🛹
 * [ ] Open `Chrome` click on the menu on the right `setting` ➡️ `More Tools`  ➡️ `Extensions`
 * [ ] Switch On the `developer mode` on the right top corner.
 * [ ] Click on `load unpacked` on the left and select the `boilerplate` folder.
